@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link rel="selenium.base" href="https://www.google.co.uk/" />
+<link rel="selenium.base" href="https://www.ca.com/" />
 <title>secondTest</title>
 </head>
 <body>
@@ -14,26 +14,6 @@
 <tr>
 	<td>open</td>
 	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>type</td>
-	<td>id=lst-ib</td>
-	<td>ca</td>
-</tr>
-<tr>
-	<td>pause</td>
-	<td>3000</td>
-	<td></td>
-</tr>
-<tr>
-	<td>submit</td>
-	<td>id=tsf</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>link=CA Technologies: Software and expertise to fuel digital transformation</td>
 	<td></td>
 </tr>
 <tr>
