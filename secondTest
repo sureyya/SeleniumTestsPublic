@@ -22,7 +22,12 @@
 	<td>ca</td>
 </tr>
 <tr>
-	<td>submitAndWait</td>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>submit</td>
 	<td>id=tsf</td>
 	<td></td>
 </tr>
