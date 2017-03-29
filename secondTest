@@ -19,7 +19,7 @@
 <tr>
 	<td>assertText</td>
 	<td>//div[@id='page']/div/div/div/div/div/p</td>
-	<td>Insights</td>
+	<td>Random Value</td>
 </tr>
 
 </tbody></table>
